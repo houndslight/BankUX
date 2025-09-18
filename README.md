@@ -104,18 +104,20 @@ npm start
 ```
 ## Next Steps
 
-# Conduct usability testing with real users and iterate based on feedback.
+- Conduct usability testing with real users and iterate based on feedback.
 
-# Improve responsive design for mobile / tablet views.
+- Improve responsive design for mobile / tablet views.
 
-# Expand design system to include more components.
+- Expand design system to include more components.
 
-# Add accessibility audit and improvements.
+- Add accessibility audit and improvements.
 
-# Consider implementing more realistic data and interactions (e.g. API integration).
+- Consider implementing more realistic data and interactions (e.g. API integration).
 
 ## Credits
 
-# Design by 
+- Design by 
 
-# Zachary T. (houndslight)
+- Zachary T. (houndslight)
+
+(<img width="1240" height="400" alt="sig2" src="https://github.com/user-attachments/assets/c1d86eb0-34d3-45e5-86c3-981da773c721" />)
