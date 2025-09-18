@@ -1,5 +1,13 @@
 # BankUX
 
+## UX Example
+
+<img width="388" height="837" alt="Screenshot 2025-09-18 at 02-25-20 React App" src="https://github.com/user-attachments/assets/ffba1d8d-471b-423f-b6aa-db77baa55c7b" />
+
+<img width="390" height="844" alt="Screenshot 2025-09-18 at 02-25-46 React App" src="https://github.com/user-attachments/assets/e4bbd1dc-81bb-4308-bb8d-22b151fb6e3c" />
+
+
+
 ## Overview
 
 BankUX is a UX design project aimed at improving the user experience for a banking application. The project includes design research, prototyping, and implementation of a front-end prototype using standard web technologies (HTML, CSS, JavaScript).
