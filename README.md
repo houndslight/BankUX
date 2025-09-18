@@ -120,4 +120,4 @@ npm start
 
 - Zachary T. (houndslight)
 
-(<img width="1240" height="400" alt="sig2" src="https://github.com/user-attachments/assets/c1d86eb0-34d3-45e5-86c3-981da773c721" />)
+<img width="1240" height="400" alt="sig2" src="https://github.com/user-attachments/assets/c1d86eb0-34d3-45e5-86c3-981da773c721" />
